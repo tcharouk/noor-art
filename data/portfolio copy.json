@@ -3,7 +3,7 @@
   "headerTaglineOne": "Hello",
   "headerTaglineTwo": "I'm Shaina Noor Goel",
   "headerTaglineThree": "artist and curious george",
-  "headerTaglineFour": " based in Los Angeles, California.",
+  "headerTaglineFour": " based in Los Angeles.",
   "showCursor": true,
   "showBlog": false,
   "darkMode": false,
@@ -45,28 +45,28 @@
       "title": "Project Three",
       "description": "Design",
       "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": ""
     },
     {
       "id": "4",
       "title": "Project Four",
       "description": "Marketing",
       "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": ""
     },
     {
       "id": "5",
       "title": "Project Five",
       "description": "Development",
       "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": ""
     },
     {
       "id": "6",
       "title": "Project Six",
       "description": "Design & Development",
       "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "url": ""
     }
   ],
   "services": [
