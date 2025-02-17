@@ -5,9 +5,9 @@
   "headerTaglineThree": "artist and curious george",
   "headerTaglineFour": " based in Los Angeles, California.",
   "showCursor": true,
-  "showBlog": true,
+  "showBlog": false,
   "darkMode": false,
-  "showResume": true,
+  "showResume": false,
   "socials": [
     {
       "id": "1",
