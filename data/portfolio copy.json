@@ -29,43 +29,43 @@
     {
       "id": "1",
       "title": "Clown at a Press Conference, 2024",
-      "description": "Oil Paint on Paper",
+      "description": "Oil on Paper",
       "imageSrc": "/art/clown.png",
       "url": ""
     },
     {
       "id": "2",
       "title": "Untitled, 2024",
-      "description": "Oil Paint on Paper",
+      "description": "Oil on Paper",
       "imageSrc": "/art/diver.png",
       "url": ""
     },
     {
       "id": "3",
-      "title": "Project Three",
-      "description": "Design",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Pioneer Plaque, 2024",
+      "description": "Oil and Pastel on Canvas",
+      "imageSrc": "/art/racehorse.png",
       "url": ""
     },
     {
       "id": "4",
-      "title": "Project Four",
-      "description": "Marketing",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Here Here, 2025",
+      "description": "Oil and Acrylic on Canvas",
+      "imageSrc": "/art/sodas.png",
       "url": ""
     },
     {
       "id": "5",
-      "title": "Project Five",
-      "description": "Development",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Stand Tall, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/barehorse.png",
       "url": ""
     },
     {
       "id": "6",
-      "title": "Project Six",
-      "description": "Design & Development",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      "title": "Self-Portrait, 2025",
+      "description": "Oil on Paper",
+      "imageSrc": "/art/shaina.png",
       "url": ""
     }
   ],
@@ -91,7 +91,7 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "<3",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
