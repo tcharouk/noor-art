@@ -15,7 +15,7 @@
 - Services
 - About
 - Contact
-- Markdown Blog
+- Blog
 
 
 ### How To Use
