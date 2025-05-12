@@ -27,6 +27,27 @@
   ],
   "projects": [
     {
+      "id": "7",
+      "title": "Portrait of a Man, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/portrait.png",
+      "url": ""
+    },
+    {
+      "id": "8",
+      "title": "Out to Pasture, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/sheep.png",
+      "url": ""
+    },
+    {
+      "id": "9",
+      "title": "Lemon Still Life, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/lemon.png",
+      "url": ""
+    },
+    {
       "id": "1",
       "title": "clown at a press conference, 2024",
       "description": "oil on paper",
@@ -66,27 +87,6 @@
       "title": "self-portrait, 2025",
       "description": "oil on paper",
       "imageSrc": "/art/shaina.png",
-      "url": ""
-    },
-    {
-      "id": "7",
-      "title": "Portrait of a Man, 2025",
-      "description": "Oil on Canvas",
-      "imageSrc": "/art/portrait.png",
-      "url": ""
-    },
-    {
-      "id": "8",
-      "title": "Out to Pasture, 2025",
-      "description": "Oil on Canvas",
-      "imageSrc": "/art/sheep.png",
-      "url": ""
-    },
-    {
-      "id": "9",
-      "title": "Lemon Still Life, 2025",
-      "description": "Oil on Canvas",
-      "imageSrc": "/art/lemon.png",
       "url": ""
     }
   ],
