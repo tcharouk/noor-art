@@ -1,9 +1,9 @@
 {
-  "name": "Noor",
-  "headerTaglineOne": "Hello",
-  "headerTaglineTwo": "I'm Shaina Noor Goel",
-  "headerTaglineThree": "artist and curious george",
-  "headerTaglineFour": " based in Los Angeles.",
+  "name": "",
+  "headerTaglineOne": "shaina noor goel",
+  "headerTaglineTwo": "oil painter and internet researcher based in LA",
+  "headerTaglineThree": "",
+  "headerTaglineFour": "",
   "showCursor": true,
   "showBlog": false,
   "darkMode": false,
@@ -28,44 +28,65 @@
   "projects": [
     {
       "id": "1",
-      "title": "Clown at a Press Conference, 2024",
-      "description": "Oil on Paper",
+      "title": "clown at a press conference, 2024",
+      "description": "oil on paper",
       "imageSrc": "/art/clown.png",
       "url": ""
     },
     {
       "id": "2",
-      "title": "Untitled, 2024",
-      "description": "Oil on Paper",
+      "title": "untitled, 2024",
+      "description": "oil on paper",
       "imageSrc": "/art/diver.png",
       "url": ""
     },
     {
       "id": "3",
-      "title": "Pioneer Plaque, 2024",
-      "description": "Oil and Pastel on Canvas",
+      "title": "pioneer plaque, 2024",
+      "description": "oil and pastel on canvas",
       "imageSrc": "/art/racehorse.png",
       "url": ""
     },
     {
       "id": "4",
-      "title": "Here Here, 2025",
-      "description": "Oil and Acrylic on Canvas",
+      "title": "here here, 2025",
+      "description": "oil and acrylic on canvas",
       "imageSrc": "/art/sodas.png",
       "url": ""
     },
     {
       "id": "5",
-      "title": "Stand Tall, 2025",
-      "description": "Oil on Canvas",
+      "title": "stand tall, 2025",
+      "description": "oil on canvas",
       "imageSrc": "/art/barehorse.png",
       "url": ""
     },
     {
       "id": "6",
-      "title": "Self-Portrait, 2025",
-      "description": "Oil on Paper",
+      "title": "self-portrait, 2025",
+      "description": "oil on paper",
       "imageSrc": "/art/shaina.png",
+      "url": ""
+    },
+    {
+      "id": "7",
+      "title": "Portrait of a Man, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/portrait.png",
+      "url": ""
+    },
+    {
+      "id": "8",
+      "title": "Out to Pasture, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/sheep.png",
+      "url": ""
+    },
+    {
+      "id": "9",
+      "title": "Lemon Still Life, 2025",
+      "description": "Oil on Canvas",
+      "imageSrc": "/art/lemon.png",
       "url": ""
     }
   ],

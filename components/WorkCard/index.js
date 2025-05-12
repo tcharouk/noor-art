@@ -12,14 +12,14 @@ const WorkCard = ({ img, name, description, onClick }) => {
       >
         <img
           alt={name}
-          className="h-full w-auto object-cover hover:scale-90 transition-all ease-out duration-300"
+          className="h-full w-auto object-cover hover:scale-95 transition-all ease-out duration-300"
           src={img}
         ></img>
       </div>
-      <h1 className="mt-5 text-3xl font-medium">
+      <h1 className="mt-5 text-xl font-medium">
         {name ? name : "Project Name"}
       </h1>
-      <h2 className="text-xl opacity-50">
+      <h2 className="text-lg opacity-50">
         {description ? description : "Description"}
       </h2>
     </div>
